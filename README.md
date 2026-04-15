@@ -50,7 +50,7 @@ if (birthDate > now || isNaN(birthDate.getTime())) {
 }
 ```
 
-Future dates and invalid combos (Feb 30) now handled properly.
+Future dates and invalid combos (Feb 30)  handled properly.
 
 ## Author
 
