@@ -1,4 +1,4 @@
-# Frontend Mentor - Age calculator app solution (Template Updated)
+# Frontend Mentor - Age calculator app solution 
 
 This is a solution to the [Age calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/age-calculator-app-dF9DFFpj-Q).
 
@@ -54,4 +54,4 @@ Future dates and invalid combos (Feb 30) now handled properly.
 
 ## Author
 
-- GitHub: [@shadow](https://github.com/shadow)
+- GitHub: [@batgev](https://github.com/batgev)
